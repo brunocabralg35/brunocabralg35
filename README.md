@@ -1,7 +1,6 @@
-### Hey There 👋 
+### Salve galera 👋 
 
-- 🔭 Hoje trabalho com front-end ...
-- 🌱 Estou estudando React ...
+- 🌱 Estou estudando Front-end Development com React.js ...
 - ⚡ Fun fact: Sou músico 🎵 nas minhas horas vagas!
 
 <div align="center">
