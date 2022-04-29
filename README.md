@@ -1,7 +1,7 @@
 ### Salve galera 👋 
 
 - 🌱 Estou estudando Front-end Development com React.js ...
-- ⚡ Fun fact: Sou músico 🎵 nas minhas horas vagas!
+- ⚡ Fun fact: Sou músico 🎵 nas horas vagas!
 
 <div align="center">
   <a href="https://github.com/brunocabralg35">
