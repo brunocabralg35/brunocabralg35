@@ -2,10 +2,10 @@
 
 - 🌱 Aprimorando meus conhecimentos em desenvolvimento todos os dias.
 
-👨🏻‍🎨 Habilidades: 
-### HTML / CSS / Sass / Tailwind
-### JavaScript / TypeScript
-### React / Next
+### 👨🏻‍🎨 Habilidades: 
+- HTML / CSS / Sass / Tailwind
+- JavaScript / TypeScript
+- React / Next
   
   ##
   
