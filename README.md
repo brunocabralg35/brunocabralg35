@@ -6,6 +6,8 @@
 - HTML / CSS / Sass / Tailwind
 - JavaScript / TypeScript
 - React / Next
+- NodeJS
+- MySQL / PostegreSQL / Prisma
   
   ##
   
